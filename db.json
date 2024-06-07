@@ -28,5 +28,37 @@
       "github_link": "https://i.postimg.cc/2S1cQVXM/Activision-Clone.png",
       "liveWebsite_link": "https://activision-clone-react-js.vercel.app/"
     }
+  ], 
+  "Skills": [
+    {
+      "id": 1,
+      "name": "JavaScript",
+      "icon": "https://github.com/DylanFinlay/dylan-portfolio/blob/master/src/assets/JavaScript.png?raw=true"
+    },
+    {
+      "id": 2,
+      "name": "Git",
+      "icon": "https://github.com/DylanFinlay/dylan-portfolio/blob/master/src/assets/Git.png?raw=true"
+    },
+    {
+      "id": 3, 
+      "name": "Github",
+      "icon": "https://github.com/DylanFinlay/dylan-portfolio/blob/master/src/assets/Github.png?raw=true"
+    },
+    {
+      "id": 4, 
+      "name": "HTML 5",
+      "icon": "https://github.com/DylanFinlay/dylan-portfolio/blob/master/src/assets/Html.png?raw=true"
+    },
+    {
+      "id": 5, 
+      "name": "React Js", 
+      "icon": "https://github.com/DylanFinlay/dylan-portfolio/blob/master/src/assets/React.png?raw=true"
+    },
+    {
+      "id": 6,
+      "name": "Tailwind",
+      "icon": "https://github.com/DylanFinlay/dylan-portfolio/blob/master/src/assets/Tailwind.png?raw=true"
+    }
   ]
 }
