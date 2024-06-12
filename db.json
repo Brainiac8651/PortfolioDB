@@ -66,8 +66,8 @@
         "id": 1,
         "position": "Junior Front-End Developer",
         "company": "WebWorks",
-        "location": "New York, USA",
-        "duration": "Jan 2022 - Jun 2022",
+        "location": "Remote",
+        "duration": "Jan 2023 - Jun 2023",
         "role": "Junior Front-End Developer",
         "responsibilities": [
           {
@@ -97,29 +97,59 @@
         "position": "Freelance Front-End Developer",
         "company": "Remote",
         "location": "Remote",
-        "duration": "Jul 2022 - Dec 2022",
+        "duration": "Jul 2023 - Dec 2023",
         "role": "Freelance Front-End Developer",
         "responsibilities": [
-          "Collaborated with clients to understand project requirements and deliver high-quality web solutions.",
-          "Developed custom websites and web applications using HTML, CSS, and JavaScript.",
-          "Ensured responsiveness and cross-browser compatibility of websites.",
-          "Managed project timelines and communicated regularly with clients to provide updates and gather feedback.",
-          "Leveraged version control systems and code repositories for project management and collaboration."
+          {
+            "id": 1,
+            "resp": "<ul><li>Collaborated with clients to understand project requirements and deliver high-quality web solutions.</li></ul>"
+          },
+          {
+            "id": 2,
+            "resp": "<ul><li>Developed custom websites and web applications using HTML, CSS, and JavaScript.</li></ul>"
+          },
+          {
+            "id": 3,
+            "resp": "<ul><li>Ensured responsiveness and cross-browser compatibility of websites.</li></ul>"
+          },
+          {
+            "id": 4,
+            "resp": "<ul><li>Managed project timelines and communicated regularly with clients to provide updates and gather feedback.</li></ul>"
+          },
+          {
+            "id": 5,
+            "resp": "<ul><li>Leveraged version control systems and code repositories for project management and collaboration.</li></ul>"
+          }
         ]
       },
       {
         "id": 3,
         "position": "Junior Front-End Developer",
         "company": "CodeWave",
-        "location": "San Francisco, USA",
-        "duration": "Jan 2023 - Jun 2023",
+        "location": "Remote",
+        "duration": "Jan 2024 - April 2024",
         "role": "Junior Front-End Developer",
         "responsibilities": [
-          "Developed and maintained front-end components using React and Redux.",
-          "Participated in code reviews and received constructive feedback from senior developers.",
-          "Worked on bug fixes and enhancements for the company’s main web application.",
-          "Collaborated with the back-end team to integrate RESTful APIs.",
-          "Created and maintained documentation for front-end code and processes."
+          {
+            "id": 1,
+            "resp": "<ul><li>Developed and maintained front-end components using React and Redux.</li></ul>"
+          },
+          {
+            "id": 2,
+            "resp": "<ul><li>Participated in code reviews and received constructive feedback from senior developers.</li></ul>"
+          },
+          {
+            "id": 3,
+            "resp": "<ul><li>Worked on bug fixes and enhancements for the company’s main web application.</li></ul>"
+          },
+          {
+            "id": 4,
+            "resp": "<ul><li>Collaborated with the back-end team to integrate RESTful APIs.</li></ul>"
+          },
+          {
+            "id": 5,
+            "resp": "<ul><li>Created and maintained documentation for front-end code and processes.</li></ul>"
+          }
         ]
       }
     ]
