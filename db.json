@@ -62,21 +62,38 @@
     }
   ],
     "job_experiences": [
-      {
+      { 
+        "id": 1,
         "position": "Junior Front-End Developer",
         "company": "WebWorks",
         "location": "New York, USA",
         "duration": "Jan 2022 - Jun 2022",
         "role": "Junior Front-End Developer",
         "responsibilities": [
-          "Assisted in the development of responsive web pages using HTML, CSS, and JavaScript.",
-          "Worked closely with senior developers to understand project requirements and implement design specifications.",
-          "Participated in daily stand-up meetings and contributed to sprint planning sessions.",
-          "Performed basic debugging and troubleshooting of front-end issues.",
-          "Maintained and updated existing websites to improve user experience and performance."
+          {
+            "id": 1,
+            "resp": "<ul><li>Assisted in the development of responsive web pages using HTML, CSS, and JavaScript.</li></ul>"
+          },
+          {
+            "id": 2,
+            "resp": "<ul><li>Worked closely with senior developers to understand project requirements and implement design specifications.</li></ul>"
+          },
+          {
+            "id": 3,
+            "resp": "<ul><li>Participated in daily stand-up meetings and contributed to sprint planning sessions.</li></ul>"
+          },
+          {
+            "id": 4,
+            "resp": "<ul><li>Performed basic debugging and troubleshooting of front-end issues.</li></ul>"
+          },
+          {
+            "id": 5,
+            "resp": "<ul><li>Maintained and updated existing websites to improve user experience and performance.</li></ul>"
+          }
         ]
       },
       {
+        "id": 2,
         "position": "Freelance Front-End Developer",
         "company": "Remote",
         "location": "Remote",
@@ -91,6 +108,7 @@
         ]
       },
       {
+        "id": 3,
         "position": "Junior Front-End Developer",
         "company": "CodeWave",
         "location": "San Francisco, USA",
