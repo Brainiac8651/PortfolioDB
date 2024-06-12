@@ -60,5 +60,50 @@
       "name": "Tailwind",
       "icon": "https://github.com/DylanFinlay/dylan-portfolio/blob/master/src/assets/Tailwind.png?raw=true"
     }
-  ]
+  ],
+    "job_experiences": [
+      {
+        "position": "Junior Front-End Developer",
+        "company": "WebWorks",
+        "location": "New York, USA",
+        "duration": "Jan 2022 - Jun 2022",
+        "role": "Junior Front-End Developer",
+        "responsibilities": [
+          "Assisted in the development of responsive web pages using HTML, CSS, and JavaScript.",
+          "Worked closely with senior developers to understand project requirements and implement design specifications.",
+          "Participated in daily stand-up meetings and contributed to sprint planning sessions.",
+          "Performed basic debugging and troubleshooting of front-end issues.",
+          "Maintained and updated existing websites to improve user experience and performance."
+        ]
+      },
+      {
+        "position": "Freelance Front-End Developer",
+        "company": "Remote",
+        "location": "Remote",
+        "duration": "Jul 2022 - Dec 2022",
+        "role": "Freelance Front-End Developer",
+        "responsibilities": [
+          "Collaborated with clients to understand project requirements and deliver high-quality web solutions.",
+          "Developed custom websites and web applications using HTML, CSS, and JavaScript.",
+          "Ensured responsiveness and cross-browser compatibility of websites.",
+          "Managed project timelines and communicated regularly with clients to provide updates and gather feedback.",
+          "Leveraged version control systems and code repositories for project management and collaboration."
+        ]
+      },
+      {
+        "position": "Junior Front-End Developer",
+        "company": "CodeWave",
+        "location": "San Francisco, USA",
+        "duration": "Jan 2023 - Jun 2023",
+        "role": "Junior Front-End Developer",
+        "responsibilities": [
+          "Developed and maintained front-end components using React and Redux.",
+          "Participated in code reviews and received constructive feedback from senior developers.",
+          "Worked on bug fixes and enhancements for the company’s main web application.",
+          "Collaborated with the back-end team to integrate RESTful APIs.",
+          "Created and maintained documentation for front-end code and processes."
+        ]
+      }
+    ]
+  
 }
