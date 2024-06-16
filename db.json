@@ -63,8 +63,23 @@
     },
     {
       "id": 7,
-      "name": "CSS3",
+      "name": "CSS 3",
       "icon": "https://i.postimg.cc/7ZvXFLyW/icons8-css3.png"
+    },
+    {
+      "id": 8,
+      "name": "Redux",
+      "icon": "https://i.postimg.cc/hG2YRqsQ/icons8-redux.png"
+    },
+    {
+      "id": 9,
+      "name": "TypeScript",
+      "icon": "https://i.postimg.cc/3RK3n7Ry/icons8-typescript.png"
+    },
+    {
+      "id": 10,
+      "name": "BootStrap 5",
+      "icon": "https://i.postimg.cc/BbzsSKCD/icons8-bootstrap.png"
     }
   ],
     "job_experiences": [
